@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Formatting Demo Page</title>
-		</head>
+<html>		
+	<head>
+		<title>Formatting Demo Page</title>
+	</head>
 		<body>
 			<p> This simple page demonstrates the formatting tags covered in this lesson</p>
 		</body>
-	</html>
+</html>
